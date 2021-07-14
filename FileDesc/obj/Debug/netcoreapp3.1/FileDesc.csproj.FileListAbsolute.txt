@@ -1,0 +1,13 @@
+C:\Users\Jake\source\repos\FileDesc\bin\Debug\netcoreapp3.1\FileDesc.exe
+C:\Users\Jake\source\repos\FileDesc\bin\Debug\netcoreapp3.1\FileDesc.deps.json
+C:\Users\Jake\source\repos\FileDesc\bin\Debug\netcoreapp3.1\FileDesc.runtimeconfig.json
+C:\Users\Jake\source\repos\FileDesc\bin\Debug\netcoreapp3.1\FileDesc.runtimeconfig.dev.json
+C:\Users\Jake\source\repos\FileDesc\bin\Debug\netcoreapp3.1\FileDesc.dll
+C:\Users\Jake\source\repos\FileDesc\bin\Debug\netcoreapp3.1\FileDesc.pdb
+C:\Users\Jake\source\repos\FileDesc\obj\Debug\netcoreapp3.1\FileDesc.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\FileDesc\obj\Debug\netcoreapp3.1\FileDesc.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\FileDesc\obj\Debug\netcoreapp3.1\FileDesc.AssemblyInfo.cs
+C:\Users\Jake\source\repos\FileDesc\obj\Debug\netcoreapp3.1\FileDesc.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\FileDesc\obj\Debug\netcoreapp3.1\FileDesc.dll
+C:\Users\Jake\source\repos\FileDesc\obj\Debug\netcoreapp3.1\FileDesc.pdb
+C:\Users\Jake\source\repos\FileDesc\obj\Debug\netcoreapp3.1\FileDesc.genruntimeconfig.cache
