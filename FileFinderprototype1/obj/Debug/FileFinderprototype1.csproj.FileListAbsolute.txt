@@ -1,0 +1,7 @@
+C:\Users\Jake\source\repos\FileFinderprototype1\obj\Debug\FileFinderprototype1.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\FileFinderprototype1\obj\Debug\FileFinderprototype1.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\FileFinderprototype1\bin\Debug\FileFinderprototype1.exe.config
+C:\Users\Jake\source\repos\FileFinderprototype1\bin\Debug\FileFinderprototype1.exe
+C:\Users\Jake\source\repos\FileFinderprototype1\bin\Debug\FileFinderprototype1.pdb
+C:\Users\Jake\source\repos\FileFinderprototype1\obj\Debug\FileFinderprototype1.exe
+C:\Users\Jake\source\repos\FileFinderprototype1\obj\Debug\FileFinderprototype1.pdb
